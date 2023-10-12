@@ -1,5 +1,6 @@
 # Amazon EKS Blueprints for Terraform
 
+(new)
 Welcome to Amazon EKS Blueprints for Terraform!
 
 This project contains a collection of Amazon EKS cluster patterns implemented in Terraform that
